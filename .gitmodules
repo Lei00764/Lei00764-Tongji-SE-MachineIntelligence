@@ -1,0 +1,18 @@
+[submodule "machine-learning"]
+	path = machine-learning
+	url = https://github.com/Lei00764/machine-learning.git
+[submodule "advanced-programming"]
+	path = advanced-programming
+	url = https://github.com/Lei00764/advanced-programming.git
+[submodule "computer-vision"]
+	path = computer-vision
+	url = https://github.com/Lei00764/computer-vision.git
+[submodule "computer-graphics"]
+	path = computer-graphics
+	url = https://github.com/Lei00764/computer-graphics.git
+[submodule "SLAM"]
+	path = SLAM
+	url = https://github.com/Lei00764/SLAM.git
+[submodule "oop-project"]
+	path = oop-project
+	url = https://github.com/Lei00764/oop-project.git
